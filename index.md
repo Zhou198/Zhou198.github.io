@@ -1,14 +1,14 @@
-# Zhou Wang
+## Zhou Wang
 
 I am a Ph.D. candidate in the Department of Mathematics and Statistics at Binghamton University, advised by Professor [Xingye Qiao](http://people.math.binghamton.edu/qiao/). 
  
-# Contact
+## Contact
 
 <ul style="list-style-type:square;">
   <li>Email: zwang198 <i>at</i> binghamton <i>dot</i> edu</li>
 </ul>
 
-# Research Interest
+## Research Interest
 
 <!-- <p> Statistical Machine Learning, including Cautious Classification </p>
 <p> Anomaly Detection and Open Set Learning </p>
