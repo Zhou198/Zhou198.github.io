@@ -1,4 +1,4 @@
-<!-- # Zhou Wang -->
+# Zhou Wang
 
 I am a Ph.D. candidate in the Department of Mathematics and Statistics at Binghamton University, advised by Professor [Xingye Qiao](http://people.math.binghamton.edu/qiao/). 
  
